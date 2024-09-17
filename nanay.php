@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>nanay cantikk</h1>
+    
 </body>
 </html>
